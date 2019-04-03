@@ -1,0 +1,427 @@
+Acetaldehyde?#6 6 1 1 1 1 8
+Acetamide?#6 6 1 1 1 1 1 7 8
+Aluminium antimonide?#13 51
+Aluminium arsenide?#13 33
+Aluminium nitride?#13 7
+Aluminium oxide?#13 13 8 8 8
+Aluminium phosphide?#13 15
+Aluminium chloride?#13 17 17 17
+Aluminium fluoride?#13 9 9 9
+Aluminium hydroxide?#13 8 1
+Aluminium nitrate?#13 7 8 8 8
+Aluminium sulfate?#13 13 16 8 8 8 8
+Ammonia?#7 1 1 1
+Ammonium azide?#7 1 1 1 1 7 7 7
+Ammonium bicarbonate?#7 1 1 1 1 1 6 8 8 8
+Ammonium cerium(IV) nitrate?#7 1 1 1 1 58 58 7 8 8 8
+Ammonium chloride?#7 1 1 1 1 17
+Ammonium chlorate?#7 1 1 1 1 17 8 8 8
+Ammonium cyanide#7 1 1 1 1 6 7
+Ammonium dichromate#7 1 1 1 1 24 24 8 8 8 8 8 8 8
+Ammonium hydroxide#7 1 1 1 1 8 1
+Ammonium hexachloroplatinate#7 1 1 1 1 78 78 17 17 17 17 17 17
+Ammonium nitrate#7 1 1 1 1 7 8 8 8
+Ammonium sulfide#7 1 1 1 1 16 16 16 16
+Ammonium sulfite#7 1 1 1 1 16 8 8 8
+Ammonium sulfate#7 1 1 1 1 16 16 8 8 8 8
+Ammonium persulfate#7 1 1 1 1 16 16 8 8 8 8 8 8 8 8
+Ammonium perchlorate#7 1 1 1 1 17 8 8 8 8
+Ammonium tetrathiocyanatodiamminechromate(III)#17 1 1 1 1 24 16 6 7 7 1 1 1
+Antimony hydride#51 1 1 1
+Antimony pentachloride#51 17 17 17 17 17
+Antimony pentafluoride#51 9 9 9 9 9
+Antimony trioxide#51 51 8 8 8
+Arsine#33 1 1 1
+Arsenic trioxide (Arsenic(III) oxide)#33 33 8 8 8
+Arsenous acid#33 8 8 8 1 1 1
+Barium azide#56 7 7 7
+Barium chloride#56 17 17
+Barium chromate#56 24 8 8 8 8
+Barium chlorate#56 17 8 8 8
+Barium carbonate#56 6 8 8 8
+Barium hydroxide#56 8 8 1 1
+Barium iodide#56 53 53
+Barium nitrate#56 7 8 8
+Barium sulfate#56 16 8 8 8 8
+Barium fluoride#56 9 9
+Barium ferrite#56 26 26 8 8 8 8
+Barium ferrate#56 26 26 8 8 8 8
+Barium titanate#56 81 81 8 8 8
+Barium oxide#56 8
+Barium peroxide#56 8 8
+Beryllium bromide#4 35 35
+Beryllium carbonate#4 6 8 8 8
+Beryllium chloride#4 17 17
+Beryllium fluoride#4 9 9
+Beryllium hydride#4 1 1
+Beryllium hydroxide#4 8 8 1 1
+Beryllium iodide#4 53 53
+Beryllium nitrate#4 7 8 8 8
+Beryllium nitride#4 4 4 7 7
+Beryllium oxide#4 8
+Beryllium sulfate#4 16 8 8 8 8
+Beryllium sulfite#4 16 8 8 8
+Beryllium borohydride#4 5 1 1 1 1
+Beryllium telluride#4 52
+Bismuth(III) oxide#83 83 8 8 8
+Bismuth(III) telluride#83 83 52 52 52
+Boric acid#1 1 1 5 8 8 8
+Boron carbide#5 5 5 5 5 6
+Boron nitride#5 7
+Boron oxide#5 5 8 8 8
+Boron suboxide#5 5 5 5 5 5 8
+Boron trichloride#5 17 17 17
+Boron trifluoride#5 9 9 9
+Bromine pentafluoride#35 9 9 9 9 9
+Bromine trifluoride#35 9 9 9
+Cadmium arsenide#48 48 48 33 33
+Cadmium bromide#48 35 35
+Cadmium chloride#48 17 17
+Cadmium fluoride#48 9 9
+Cadmium iodide#47 53 53
+Cadmium selenide#47 34
+Cadmium sulfate#47 16 8 8 8 8
+Cadmium telluride#47 52
+Caesium bicarbonate#55 1 6 8 8 8
+Caesium carbonate#55 55 6 8 8 8
+Caesium chromate#55 55 24 8 8 8 8
+Caesium chloride#55 17
+Caesium fluoride#55 9
+Caesium hydride#55 1
+Calcium carbide#20 6 6
+Calcium chloride#20 17 17
+Calcium chromate#20 24 8 8 8 8
+Calcium cyanamide#20 6 7 7
+Calcium fluoride#20 9 9
+Calcium hydride#20 1 1
+Calcium sulfate (Gypsum)#20 16 8 8 8 8
+Carbon dioxide#6 8 8
+Carbon disulfide#6 16 16
+Carbon monoxide#6 8
+Carbonic acid#1 1 6 8 8 8
+Carbon tetrabromide#6 35 35 35 35
+Carbon tetrachloride#6 17 17 17 17
+Carbon tetraiodide#6 53 53 53 53
+Carbonyl fluoride#6 8 9 9
+Carbonyl sulfide#6 8 16
+Carboplatin#6 6 6 6 6 6 1 7 7 8 8 8 8 78
+Carborundum#14 6
+Cerium(III) chloride#58 17 17 17
+Cerium(III) bromide#58 35
+Cerium magnesium#58 12
+Cerium aluminium#58 13
+Cerium zinc#58 30
+Cerium silver#58 47
+Cerium cadmium#58 48
+Cerium mercury#58 80
+Cerium thallium#58 81
+Chloric acid#1 17 8 8 8
+Chlorine#17 17
+Chlorine monoxide#17 8
+Chlorine dioxide#17 8 8
+Chlorine trioxide#17 8 8 8
+Dichlorine monoxide#17 17 8
+Dichlorine dioxide#17 17 8 8
+Dichlorine trioxide#17 17 8 8 8
+Dichlorine tetroxide,also known as chlorine perchlorate#17 8 17 8 8 8
+Dichlorine hexoxide#17 17 8 8 8 8 8 8 
+Dichlorine heptoxide#17 17 8 8 8 8 8 8 8 
+Chlorine tetroxide, the peroxide#8 8 8 17 8 8 17 8 8 8 
+Chromic acid#24 8 8 8 
+Chromium(III) chloride#24 17 17 17
+Chromium(II) chloride#24 17 17
+Chromium(III) oxide#24 24 8 8 8
+Chromium(IV) oxide#24 8 8 
+Chromium(II) sulfate#24 16 8 8 8 8
+Chromium trioxide (Chromic acid)#24 8 8 8
+Chromyl chloride#24 8 8 17 17
+Cobalt(II) bromide#27 35 35
+Cobalt(II) chloride#27 17 17
+Cobalt(II) carbonate#27 6 8 8 8
+Cobalt(II) sulfate#27 16 8 8 8 8
+Copper(II) carbonate#29 6 8 8 8
+Copper(I) chloride#29 17
+Copper(II) chloride#29 17 17
+Copper(I) oxide#29 29 8
+Copper(II) oxide#29 8
+Copper(II) sulfate#29 16 8 8 8 8
+Copper(I) sulfide#29 29 16
+Copper(II) sulfide#29 16
+Cyanogen chloride#6 7 17
+Cyanuric chloride#6 6 6 17 17 17 7 7 7
+Cyanogen bromide#6 7 35
+Cyanogen iodide#53 8 7
+Decaborane (Diborane)#5 5 5 5 5 5 5 5 5 5 1 1 1 1 1 1 1 1 1 1 1 1 1
+Diborane#5 5 1 1 1 1 1 1
+Dichlorosilane#14 1 1 17 17
+Digallane#31 31 1 1 1 1 1 1
+Dinitrogen pentoxide (nitronium nitrate)#7 7 8 8 8 8 8
+Dinitrogen tetroxide#7 7 8 8 8 8
+Disilane#14 14 1 1 1 1 1 1
+Disulfur dichloride#16 16 17 17
+Dysprosium(III) chloride#66 17 17 17
+Dysprosium oxide#66 66 8 8 8
+Dysprosium titanate#66 66 81 81 8 8 8 8 8 8 8
+Erbium(III) chloride#68 17 17 17
+Europium(III) chloride#63 17 17 17
+Erbium-copper#68 29
+Erbium-gold#68 79
+Erbium-silver#68 47
+Erbium-Iridium#68 77
+Gadolinium(III) chloride#64 17 17 17
+Gadolinium(III) oxide#64 64 8 8 8 
+Gallium antimonide#31 51
+Gallium arsenide#31 33
+Gallium trichloride#31 17 17 17
+Gallium nitride#31 7
+Gallium phosphide#31 15
+Germane#32 1 1 1 1
+Digermane#32 32 1 1 1 1 1 1
+Germanium(II) fluoride#32 9 9
+Germanium(IV) fluoride#32 9 9 9 9
+Germanium(II) chloride#32 17 17
+Germanium(IV) chloride#32 17 17 17 17
+Germanium(II) bromide#32 35 35
+Germanium(IV) bromide#32 35 35 35 35
+Germanium(II) iodide#32 53 53
+Germanium(IV) iodide#32 53 53 53 53
+Germanium(IV) oxide#32 8 8
+Germanium(II) sulfide#32 16
+Germanium(IV) sulfide#32 16 16
+Germanium(II) selenide#32 34
+Germanium(IV) selenide#32 34 34
+Germanium telluride#32 52
+Germanium(IV) nitride#32 32 32 7 7 7 7
+Gold(I) chloride#79 17
+Gold(III) fluoride#79 9 9 9
+Gold(I) bromide#79 35
+Gold(I) iodide#79 53
+Gold(I) hydride#79 1
+Gold(III) oxide#79 79 8 8 8
+Gold(I) sulfide#79 79 16
+Gold(III) selenide#79 34
+Gold ditelluride#79 52 52
+Hafnium tetrafluoride#72 9 9 9 9
+Hafnium tetrachloride#72 17 17 17 17
+Hydrazine#7 7 1 1 1 1
+Hydrazoic acid#1 7 7 7
+Hydrobromic acid#1 35
+Hydrochloric acid#1 17
+Hydroiodic acid#1 53
+Hydrogen bromide#1 35
+Hydrogen chloride#1 17
+Hydrogen fluoride#1 9
+Hydrogen peroxide#1 1 8 8
+Hydrogen selenide#1 1 34
+Hydrogen sulfide#1 1 16
+Hydrogen telluride#1 1 52
+Hydroxylamine#7 1 1 8 1
+Hypochlorous acid#1 17 8
+Hypophosphorous acid#1 1 1 15 8 8
+Indium antimonide#49 51
+Indium arsenide#49 33
+Indium(I) chloride#49 17
+Indium nitride#49 7
+Indium phosphide#49 15
+Iodic acid#1 53 8 8 8
+Iodine heptafluoride#53 9 9 9 9 9 9 9
+Iodine pentafluoride#53 9 9 9 9 9
+Iodine monochloride#53 17
+Iodine trichloride#53 17 17 17
+Iridium(IV) chloride#53 17 17 17 17
+Iron(II) chloride#26 17 17
+Iron(III) chloride#26 17 17 17
+Iron(II) oxide#26 8 
+Iron(II,III) oxide#26 26 26 8 8 8 8
+Krypton difluoride#36 9 9
+Lanthanum magnesium#57 12
+Lanthanum aluminium#57 13
+Lanthanum zinc#57 30
+Lanthanum silver#57 47
+Lanthanum cadmium#57 48
+Lanthanum mercury#57 80
+Lead(II) chloride#82 17 17
+Lead(II) iodide#82 53 53
+Lead hydrogen arsenate#82 1 33 8 8 8 8
+Lead(II) oxide#82 8
+Lead(IV) oxide#82 8 8
+Lead(II) selenide#82 34
+Lead(II) sulfide#82 16
+Lead(II) telluride#82 52
+Lithium aluminium hydride#3 13 1 1 1 1
+Lithium bromide#3 35
+Lithium borohydride#3 5 1 1 1 1
+Lithium carbonate (Lithium salt)#3 3 6 8 8 8
+Lithium chloride#3 17 
+Lithium hypochlorite#3 17 8
+Lithium chlorate#3 17 8 8 8
+Lithium perchlorate#3 17 8 8 8 8
+Lithium cobalt oxide#3 27 8 8 
+Lithium peroxide#3 3 8 8 
+Lithium hydride#3 1
+Lithium hydroxide#3 8 1
+Lithium iron phosphate#26 3 8 8 8 8 15
+Lithium nitrate#3 7 8 8 8
+Magnesium antimonide#12 51
+Magnesium carbonate#12 6 8 8 8
+Magnesium chloride#12 17 17
+Magnesium oxide#12 8
+Magnesium sulfate#12 16 8 8 8 8
+Manganese(II) chloride#25 17 17
+Manganese(IV) fluoride#25 9 9 9 9
+Mercury(I) chloride#80 80 17 17
+Mercury(II) selenide#80 34
+Mercury(I) sulfate#80 80 16 8 8 8 8
+Mercury(II) sulfate#80 16 8 8 8 8
+Molybdenum hexacarbonyl#6 6 6 6 6 6 8 8 8 8 8 8 42
+Molybdic acid#1 1 42 8 8 8 8
+Neodymium(III) chloride#60 17 17 17
+Nickel(II) carbonate#28 6 8 8 8
+Niobium oxychloride#41 8 17 17 17
+Niobium pentachloride#41 17 17 17 17 17
+Nitric acid#1 7 8 8 8
+Nitrosylsulfuric acid#7 8 1 16 8 8 8 8
+Oxybis(tributyltin)#6 6 1 1 1 1 8 50 50
+Palladium(II) chloride#46 17 17
+Pentaborane#5 5 5 5 5 1 1 1 1 1 1 1 1 1
+Pentasulfide antimony#51 51 16 16 16 16 16
+Phosphomolybdic acid#1 1 1 15 42 8 8 8 8
+Phosphorus sesquisulfide#15 15 15 15 16 16 16
+Phosphorus tribromide#15 35 35 35
+Phosphotungstic acid#1 1 1 15 74 8 8 8 8
+Platinum(II) chloride#78 17 17 
+Potassium aluminium fluoride#19 13 9 9 9 9
+Potassium calcium chloride#19 20 17 17 17
+Potassium carbonate#19 19 6 8 8 8
+Potassium chlorate#19 17 17 8 8 8
+Potassium chloride#19 17 
+Potassium hydrogencarbonate#19 1 6 8 8 8
+Potassium hydrogen fluoride#1 9 9 19 19
+Potassium titanyl phosphate#19 22 8 15 8 8 8 8
+Potassium vanadate#19 23 8 8 8
+Praseodymium(III) chloride#59 17 17 17
+Pyrosulfuric acid#1 1 16 16 8 8 8 8 8 8 8
+Radon difluoride#86 9 9
+Rhodium(III) chloride#45 17 17
+Samarium(II) iodide#62 53 53
+Samarium(III) chloride#62 17 17 17
+Selenic acid#1 1 34 8 8 8 8
+Selenious acid#1 1 34 8 8 8
+Selenium trioxide#34 8 8 8
+Selenium tetrafluoride#34 9 9 9 9
+Selenium hexasulfide#34 34 16 16 16 16 16 16
+Selenium tetrachloride#34 17 17 17 17
+Selenium oxydichloride#34 8 17 17
+Selenium oxybromide#34 8 35 35
+Selenoyl fluoride#34 8 8 9 9
+Samarium(III) chloride#62 17 17 17
+Silane#14 1 1 1 1
+Silicon tetrabromide#14 35 35 35 35
+Silicofluoric acid#1 1 14 9 9 9 9 9 9
+Silicon dioxide#14 8 8
+Silicon tetrachloride#14 17 17 17 17
+Silver bromate#47 35 8 8 8
+Silver chlorate#47 17 8 8 8
+Silver chromate#47 47 24 8 8 8 8
+Silver fluoroborate#47 5 9 9 9 9
+Silver fulminate#47 6 7 8
+Silver hydroxide#47 8 1
+Silver nitrate#47 7 8 8 8
+Silver perchlorate#47 17 8 8 8 8
+Silver sulfate#47 47 16 8 8 8 8
+Sodamide#11 7 1 1
+Sodium aluminate#11 13 8 8 
+Sodium azide#11 7 7 7
+Sodium borohydride#11 5 1 1 1 1
+Sodium bromide#11 35
+Sodium bromite#11 35 8 8
+Sodium bromate#11 35 8 8 8
+Sodium perbromate#11 35 8 8 8 8
+Sodium borate#11 11 5 5 5 5 8 8 8 8 8 8 8
+Sodium carbonate#11 11 5 8 8 8
+Sodium carbide#11 11 6 6
+Sodium chloride#11 17
+Sodium chlorite#11 17 8 8
+Sodium hydrogen carbonate (Sodium bicarbonate)#11 1 6 8 8 8
+Sodium iodide#11 53
+Sodium periodate#11 53 8 8 8 8
+Sodium hypoiodite#11 53 8
+Sodium monofluorophosphate (MFP)#11 11 15 9 8 8 8
+Sodium molybdate#11 11 42 8 8 8 8
+Sodium manganate#11 11 25 8 8 8 8
+Sodium phosphate#11 11 11 15 8 8 8 8
+Sodium hypophosphite#11 15 8 8 1 1
+Sodium persulfate#11 11 16 16 8 8 8 8 8 8 8 8
+Sodium perrhenate#11 75 8 8 8 8
+Sodium permanganate#11 25 8 8 8 8
+Sodium persulfate#11 11 16 16 8 8 8 8 8 8 8 8
+Sodium selenite#11 11 34 8 8 8
+Sodium selenate#11 11 8 8 8 8 34
+Sodium silicate#11 11 14 8 8 8
+Sodium sulfate#11 11 16 8 8 8 8
+Sodium uranate#11 11 8 8 8 8 8 8 8 92 92
+Stannous chloride (tin(II) chloride)#50 17 17
+Strontium carbonate#38 6 8 8 8
+Strontium chloride#38 17 17
+Strontium titanate#38 22 8 8 8
+Sulfamic acid#1 1 1 7 8 8 8 16
+Disulfur decafluoride#16 16 9 9 9 9 9 9 9 9 9 9
+Sulfuric acid#1 1 16 8 8 8 8
+Sulfurous acid#1 1 16 8 8 8
+Sulfuryl chloride#16 8 17 17
+Telluric acid#1 1 1 1 1 1 52 8 8 8 8 8 8
+Tellurous acid#1 1 52 8 8 8
+Terbium(III) chloride#65 17 17 17
+Tetraborane(10)#5 5 5 5 5 1 1 1 1 1 1 1 1 1 1
+Tetrachloroauric acid#79 17 17 17
+Tetrafluorohydrazine#7 7 9 9
+Tetrasulfur tetranitride#16 16 16 16 7 7 7 7
+Thallium(I) carbonate#81 81 6 8 8 8
+Thionyl chloride#16 8 17 17
+Thiophosgene#6 16 17 17
+Thiophosphoryl chloride#17 17 17 15 16
+Thorium dioxide#90 8 8
+Thulium(III) chloride#69 17 17 17
+Tin(II) chloride#50 17 17
+Titanium boride#22 5 5
+Titanium(IV) bromide (titanium tetrabromide)#22 35 35 35 35
+Titanium(IV) chloride (titanium tetrachloride)#22 17 17 17 17
+Titanium(III) chloride#22 17 17 17
+Trifluoromethylisocyanide#6 6 7 9 9 9
+Trifluoromethanesulfonic acid#6 9 9 916 8 8 8 1
+Tripotassium phosphate#19 19 19 15 15 15 8 8 8 8
+Trisodium phosphate#11 11 11 15 15 8 8 8 8
+Triuranium octaoxide (pitchblende or yellowcake)#92 92 92 8 8 8 8 8 8 8 8
+Tungstic acid#1 1 17 8 8 8 8
+Uranium hexafluoride#92 9 9 9 9 9 9
+Uranium tetrachloride#92 17 17 17 17
+Uranyl carbonate#92 8 8 6 8 8 8
+Uranyl chloride#92 8 8 17 17
+Uranyl fluoride#92 8 8 9 9
+Vanadium carbide#23 6
+Vanadium oxytrichloride (Vanadium(V) oxide trichloride)#23 8 17 17 17 
+Vanadium(IV) chloride#23 17 17 17
+Vanadium(IV) fluoride#23 9 9 9 9
+Vanadium(III) oxide#23 23 8 8 8
+Vanadium(IV) sulfate#23 8 16 8 8 8 8
+Vanadium(V) oxide#23 23 8 8 8 8 8
+Water#1 8 8
+Xenon difluoride#54 9 9
+Xenon tetroxide#54 8 8 8 8
+Xenic acid#1 1 54 8 8 8 8
+Ytterbium(III) chloride#70 17 17 17
+Ytterbium(III) oxide#70 70 8 8 8
+Yttrium(III) antimonide#39 51
+Yttrium(III) arsenide#39 33
+Yttrium(III) bromide#39 35 35 35
+Yttrium aluminium garnet#39 39 39 13 13 13 13 13 8 8 8 8 8 8 8 8 8 8 8 8
+Yttrium barium copper oxide#39 56 56 29 29 29 8 8 8 8 8 8 8
+Yttrium(III) oxide#39 39 8 8 8
+Zinc bromide#30 35 35
+Zinc carbonate#30 6 8 8 8
+Zinc chloride#30 17 17
+Zinc fluoride#30 9 9
+Zinc iodide#30 53 53
+Zinc oxide#30 8
+Zinc selenide#30 34
+Zinc sulfate#30 16 8 8 8 8

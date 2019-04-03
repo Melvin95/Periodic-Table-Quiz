@@ -1,0 +1,118 @@
+1.0079		Hydrogen	H	1		$Other Non-metal$
+4.0026  	Helium		He	2		$Noble Gas$
+6.941		Lithium		Li	3		$Alkali Metal$
+9.0122		Beryllium	Be	4		$Alkaline Earth Metal$
+10.811		Boron		B	5		$Metalloid$
+12.0107		Carbon		C	6		$Other Non-metal$
+14.0067		Nitrogen	N	7		$Other Non-metal$
+15.9994		Oxygen		O	8		$Other Non-metal$		
+18.9984		Fluorine	F	9		$Halogen$
+20.1797		Neon		Ne	10		$Noble Gas$
+22.9897		Sodium		Na	11		$Alkali Metal$
+24.305		Magnesium	Mg	12		$Alkaline Earth Metal$
+26.9815		Aluminum	Al	13		$Post-transition metal$
+28.0855		Silicon		Si	14		$Metalloid$
+30.9738		Phosphorus	P	15		$Other Non-metal$
+32.065		Sulfur		S	16		$Other Non-metal$
+35.453		Chlorine	Cl	17		$Halogen$
+39.948		Argon		Ar	18		$Noble Gas$
+39.0983		Potassium	K	19		$Alkali Metal$
+40.078		Calcium		Ca	20		$Alkaline Earth Metal$
+44.9559		Scandium	Sc	21		$Transition Metal$
+47.867		Titanium	Ti	22		$Transition Metal$
+50.9415		Vanadium	V	23		$Transition Metal$
+51.9961		Chromium	Cr	24		$Transition Metal$		
+54.938		Manganese	Mn	25		$Transition Metal$
+55.845		Iron		Fe	26		$Transition Metal$
+58.9332		Cobalt		Co	27		$Transition Metal$
+58.6934		Nickel		Ni	28		$Transition Metal$
+63.546		Copper		Cu	29		$Transition Metal$
+65.39		Zinc		Zn	30		$Transition Metal$
+69.723		Gallium		Ga	31		$Post-transition Metal$
+72.64		Germanium	Ge	32		$Metalloid$
+74.9216		Arsenic		As	33		$Metalloid$
+78.96		Selenium	Se	34		$Other Non-metal$
+79.904		Bromine		Br	35		$Halogen$
+83.8		Krypton		Kr	36		$Noble Gas$
+85.4678		Rubidium	Rb	37		$Alkali Metal$
+87.62		Strontium	Sr	38		$Alkaline Earth Metal$
+88.9059		Yttrium		Y	39		$Transition Metal$
+91.224		Zirconium	Zr	40		$Transition Metal$
+92.9064		Niobium		Nb	41		$Transition Metal$
+95.94		Molybdenum	Mo	42		$Transition Metal$
+98		Technetium	Tc	43		$Transition Metal$
+101.07		Ruthenium	Ru	44		$Transition Metal$
+102.9055	Rhodium		Rh	45		$Transition Metal$
+106.42		Palladium	Pd	46		$Transition Metal$
+107.8682	Silver		Ag	47		$Transition Metal$
+112.411		Cadmium		Cd	48		$Transition Metal$
+114.818		Indium		In	49		$Post-transition Metal$
+118.71		Tin		Sn	50		$Post-transition Metal$
+121.76		Antimony	Sb	51		$Metallloid$
+127.6		Tellurium	Te	52		$Metallloid$		
+126.9045	Iodine		I	53		$Halogen$		
+131.293		Xenon		Xe	54		$Noble Gas$
+132.9055	Cesium		Cs	55		$Alkali Metal$
+137.327		Barium		Ba	56		$Alkaline Earth Metal$
+138.9055	Lanthanum	La	57		$Lanthanoid$
+140.116		Cerium		Ce	58		$Lanthanoid$
+140.9077	Praseodymium	Pr	59		$Lanthanoid$
+144.24		Neodymium	Nd	60		$Lanthanoid$
+145		Promethium	Pm	61		$Lanthanoid$
+150.36		Samarium	Sm	62		$Lanthanoid$
+151.964		Europium	Eu	63		$Lanthanoid$
+157.25		Gadolinium	Gd	64		$Lanthanoid$
+158.9253	Terbium		Tb	65		$Lanthanoid$
+162.5		Dysprosium	Dy	66		$Lanthanoid$
+164.9303	Holmium		Ho	67		$Lanthanoid$
+167.259		Erbium		Er	68		$Lanthanoid$
+168.9342	Thulium		Tm	69		$Lanthanoid$
+173.04		Ytterbium	Yb	70		$Lanthanoid$
+174.967		Lutetium	Lu	71		$Lanthanoid$
+178.49		Hafnium		Hf	72		$Transition Metal$
+180.9479	Tantalum	Ta	73		$Transition Metal$
+183.84		Tungsten	W	74		$Transition Metal$
+186.207		Rhenium		Re	75		$Transition Metal$
+190.23		Osmium		Os	76		$Transition Metal$
+192.217		Iridium		Ir	77		$Transition Metal$
+195.078		Platinum	Pt	78		$Transition Metal$
+196.9665	Gold		Au	79		$Transition Metal$
+200.59		Mercury		Hg	80		$Transition Metal$
+204.3833	Thallium	Tl	81		$Post-transition Metal$
+207.2		Lead		Pb	82		$Post-transition Metal$
+208.9804	Bismuth		Bi	83		$Post-transition Metal$
+209		Polonium	Po	84		$Metalloid$
+210		Astatine	At	85		$Halogen$
+222		Radon		Rn	86		$Noble Gas$
+223		Francium	Fr	87		$Alkali Metal$
+226		Radium		Ra	88		$Alkaline Earth Metal$
+227		Actinium	Ac	89		$Actinoid$
+232.0381	Thorium		Th	90		$Actinoid$
+231.0359	Protactinium	Pa	91		$Actinoid$
+238.0289	Uranium		U	92		$Actinoid$
+237		Neptunium	Np	93		$Actinoid$
+244		Plutonium	Pu	94		$Actinoid$
+243		Americium	Am	95		$Actinoid$
+247		Curium		Cm	96		$Actinoid$
+247		Berkelium	Bk	97		$Actinoid$
+251		Californium	Cf	98		$Actinoid$
+252		Einsteinium	Es	99		$Actinoid$
+257		Fermium		Fm	100		$Actinoid$
+258		Mendelevium	Md	101		$Actinoid$
+259		Nobelium	No	102		$Actinoid$
+262		Lawrencium	Lr	103		$Actinoid$
+261		Rutherfordium	Rf	104		$Transition Metal$
+262		Dubnium		Db	105		$Transition Metal$
+266		Seaborgium	Sg	106		$Transition Metal$
+264		Bohrium		Bh	107		$Transition Metal$
+277		Hassium		Hs	108		$Transition Metal$
+268		Meitnerium	Mt	109		$Transition Metal$
+0		Darmstadtium	Ds	110		$Transition Metal$
+272		Roentgenium	Rg	111		$Transition Metal$
+0		Ununbium	Uub	112		$Transition Metal$
+0		Ununtrium	Uut	113		$Post-transition Metal$
+0		Ununquadium	Uuq	114		$Post-transition Metal$
+0		Ununpentium	Uup	115		$Post-transition Metal$
+0		Ununhexium	Uuh	116		$Post-transition Metal$
+0		Ununseptium	Uus	117		$Halogen$
+0		Ununoctium	Uuo	118		$Noble Gas$

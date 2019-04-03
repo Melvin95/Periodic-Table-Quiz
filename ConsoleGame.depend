@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1493813009 source:c:\users\creative\desktop\comp 315 project\consolegame\main.cpp
+	"Player.h"
+	"Question.h"
+	<ctime>
+	<fstream>
+
+1493554990 c:\users\creative\desktop\comp 315 project\consolegame\include\question.h
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+
+1493812536 source:c:\users\creative\desktop\comp 315 project\consolegame\src\question.cpp
+	"Question.h"
+	"Element.h"
+	<fstream>
+	<sstream>
+	<ctime>
+	<string>
+	<vector>
+	<ostream>
+
+1493509209 source:c:\users\creative\desktop\comp 315 project\consolegame\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1493509168 c:\users\creative\desktop\comp 315 project\consolegame\include\player.h
+	<string>
+
+1493331311 c:\users\creative\desktop\comp 315 project\consolegame\include\element.h
+	<vector>
+	<string>
+	<cstdlib>
+
+1493331272 source:c:\users\creative\desktop\comp 315 project\consolegame\src\element.cpp
+	"Element.h"
+	<iostream>
+	<fstream>
+	<regex>
+
+1493331228 source:c:\users\creative\desktop\comp 315 project\consolegame\src\scoreboard.cpp
+	"ScoreBoard.h"
+
+1493330887 c:\users\creative\desktop\comp 315 project\consolegame\include\scoreboard.h
+	"Player.h"
+
